@@ -161,6 +161,7 @@ Now using the tensorflow model and with the help of Deep Sort we are able to tra
 * Manufacturing Industry
 
 <h2>Challenges :</h2>
+
 * Speed for real-time detection
 * Limited data
 * Class imbalance
@@ -181,11 +182,3 @@ We will further try to improve this project by adding extra feature like -
 
 
 
-
-
-## Technology and frameworks used: 
-1. YOLOv3
-1. Darknet 53
-1. Jupyter Notebook
-1. Deepsort
-1. Python 
