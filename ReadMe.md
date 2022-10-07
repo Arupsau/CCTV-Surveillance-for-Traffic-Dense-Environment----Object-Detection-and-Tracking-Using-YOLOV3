@@ -32,6 +32,11 @@ E.g:
 * With the need of real time object detection, many one-step object detection architectures have been proposed, like YOLO, YOLOv2, YOLOv3, SSD, RetinaNet etc. which try to combine the detection and classification step.
 * In our project we will use YOLOv3 for training our object detection model.
 
+**YOLO v3 :**
+
+You only look once (YOLO) is an object detection system targeted for real-time processing.YOLO is able to perform object detection and recognition at the same time.It is a detector applying a single neural network which -
+                                     * Predict bounding boxes
+                                     * Multilabel classification
 
 
 ## Technology and frameworks used: 
